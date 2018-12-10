@@ -1,2 +1,2 @@
 # html_intro_2
-practice day 2
+https://emamulhassan.github.io/html_intro_2/
